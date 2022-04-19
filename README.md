@@ -11,6 +11,6 @@
 - On clicking any particular search result (any superhero), open a new page with more information about that superhero (Superhero page).
 ###### Superhero Page
 - This page will show a lot of information about the superhero like their name, photo, powerstats, bio .
-- 
+
 ###### My favourite superheroes Page
 - It will list of all the favourite superheroes. and each superheros have remove from favourites button, clicking on which will remove that superhero from the list.
